@@ -1,5 +1,6 @@
 ﻿namespace Quizum.Models.Entities.Identity;
 
+[EntityTypeConfiguration(typeof(AppUserConfiguration))]
 public class AppUser : IdentityUser<int>
 {
     [Required, StringLength(50)]
