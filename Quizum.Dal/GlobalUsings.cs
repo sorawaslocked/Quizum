@@ -6,6 +6,8 @@ global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 global using Microsoft.Extensions.Configuration;
 global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.Configuration.Json;
 
 global using Quizum.Dal.EfStructures;
 
