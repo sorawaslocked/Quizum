@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quizum.Models", "Quizum.Mod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quizum.Dal", "Quizum.Dal\Quizum.Dal.csproj", "{FA854441-A889-4180-A909-2118AFFC3FDE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quizum.Api", "Quizum.Api\Quizum.Api.csproj", "{81E46A9A-6A5A-4981-B2A5-D6B6266DC520}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{FA854441-A889-4180-A909-2118AFFC3FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA854441-A889-4180-A909-2118AFFC3FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA854441-A889-4180-A909-2118AFFC3FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E46A9A-6A5A-4981-B2A5-D6B6266DC520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E46A9A-6A5A-4981-B2A5-D6B6266DC520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E46A9A-6A5A-4981-B2A5-D6B6266DC520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E46A9A-6A5A-4981-B2A5-D6B6266DC520}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
