@@ -11,6 +11,8 @@ global using Microsoft.Extensions.Configuration.Json;
 
 global using Quizum.Dal.EfStructures;
 
+global using Quizum.Models.Dtos;
+
 global using Quizum.Models.Entities;
 global using Quizum.Models.Entities.Identity;
 global using Quizum.Models.Entities.Configuration;
